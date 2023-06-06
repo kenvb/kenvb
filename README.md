@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kenvb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning all things IT & cybersecurity
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me Find me on linkedin: https://www.linkedin.com/in/kenvdb/
 
